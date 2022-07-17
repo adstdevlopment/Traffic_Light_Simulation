@@ -1,0 +1,302 @@
+{"city":
+  [
+  {
+  "name_city" : "Paris",
+  "Nodes" :[
+    {
+      "id" : 0,
+      "x" : 0,
+      "y" : 0,
+      "type" : "cross",
+      "nodes" : "1,2,8",
+      "traffic_light" : 0
+    },
+    {
+      "id" : 1,
+      "x" : 500,
+      "y" : 0,
+      "type" : "cross",
+      "nodes" : "0,3,4,6",
+      "traffic_light" : 1
+    },
+    {
+      "id" : 2,
+      "x" : 100,
+      "y" : 100,
+      "type" : "cross",
+      "nodes" : "0,3,7",
+      "traffic_light" : 1
+    },
+    {
+      "id" : 3,
+      "x" : 400,
+      "y" : 100,
+      "type" : "cross",
+      "nodes" : "1,2,5",
+      "traffic_light" : 1
+    },
+    {
+      "id" : 4,
+      "x" : 1000,
+      "y" : 150,
+      "type" : "cross",
+      "nodes" : "1,9,11",
+      "traffic_light" : 1
+    },
+    {
+      "id" : 5,
+      "x" : 400,
+      "y" : 200,
+      "type" : "cross",
+      "nodes" : "3,6,7",
+      "traffic_light" : 1
+    },
+    {
+      "id" : 6,
+      "x" : 500,
+      "y" : 200,
+      "type" : "cross",
+      "nodes" : "1,5,10",
+      "traffic_light" : 1
+    },
+    {
+      "id" : 7,
+      "x" : 100,
+      "y" : 240,
+      "type" : "cross",
+      "nodes" : "2,5,8",
+      "traffic_light" : 1
+    },
+    {
+      "id" : 8,
+      "x" : 0,
+      "y" : 250,
+      "type" : "cross",
+      "nodes" : "0,7,10,12",
+      "traffic_light" : 1
+    },
+    {
+      "id" : 9,
+      "x": 800,
+      "y": 350,
+      "type" : "cross",
+      "nodes" : "4,10,11",
+      "traffic_light" : 0
+    },
+    {
+      "id" : 10,
+      "x" : 500,
+      "y" : 400,
+      "type" : "roundabout",
+      "nodes" : "6,8,9,13,15",
+      "traffic_light" : 0
+    },
+    {
+      "id" : 11,
+      "x" : 1000,
+      "y" : 500,
+      "type" : "cross",
+      "nodes" : "4,9,13,17",
+      "traffic_light" : 1
+    },
+    {
+      "id" : 12,
+      "x" : 0,
+      "y" : 600,
+      "type" : "cross",
+      "nodes" : "8,14,16",
+      "traffic_light" : 0
+    },
+    {
+      "id" : 13,
+      "x" : 700,
+      "y" : 700,
+      "type" : "roundabout",
+      "nodes" : "10,11,15,17",
+      "traffic_light" : 0
+    },
+    {
+      "id" : 14,
+      "x" : 200,
+      "y" : 800,
+      "type" : "cross",
+      "nodes" : "12,15,16",
+      "traffic_light" : 0
+    },
+    {
+      "id" : 15,
+      "x": 500,
+      "y": 900,
+      "type" : "cross",
+      "nodes" : "10,13,14",
+      "traffic_light" : 1
+    },
+    {
+      "id" : 16,
+      "x" : 0,
+      "y" : 1000,
+      "type" : "cross",
+      "nodes" : "12,14,17",
+      "traffic_light" : 0
+    },
+    {
+      "id" : 17,
+      "x": 1000,
+      "y": 1000,
+      "type" : "cross",
+      "nodes" : "11,13,16",
+      "traffic_light" : 0
+    }
+  ]
+  },
+  {
+  "name_city" : "Bordeaux",
+  "Nodes" :[
+    {
+      "id" : 0,
+      "x" : 0,
+      "y" : 0,
+      "type" : "cross",
+      "nodes" : "1,2,8",
+      "traffic_light" : 0
+    },
+    {
+      "id" : 1,
+      "x" : 500,
+      "y" : 0,
+      "type" : "cross",
+      "nodes" : "0,3,4,6",
+      "traffic_light" : 1
+    },
+    {
+      "id" : 2,
+      "x" : 100,
+      "y" : 100,
+      "type" : "cross",
+      "nodes" : "0,3,7",
+      "traffic_light" : 1
+    },
+    {
+      "id" : 3,
+      "x" : 400,
+      "y" : 100,
+      "type" : "cross",
+      "nodes" : "1,2,5",
+      "traffic_light" : 1
+    },
+    {
+      "id" : 4,
+      "x" : 1000,
+      "y" : 150,
+      "type" : "cross",
+      "nodes" : "1,9,11",
+      "traffic_light" : 1
+    },
+    {
+      "id" : 5,
+      "x" : 400,
+      "y" : 200,
+      "type" : "cross",
+      "nodes" : "3,6,7",
+      "traffic_light" : 1
+    },
+    {
+      "id" : 6,
+      "x" : 500,
+      "y" : 200,
+      "type" : "cross",
+      "nodes" : "1,5,10",
+      "traffic_light" : 1
+    },
+    {
+      "id" : 7,
+      "x" : 100,
+      "y" : 240,
+      "type" : "cross",
+      "nodes" : "2,5,8",
+      "traffic_light" : 1
+    },
+    {
+      "id" : 8,
+      "x" : 0,
+      "y" : 250,
+      "type" : "cross",
+      "nodes" : "0,7,10,12",
+      "traffic_light" : 1
+    },
+    {
+      "id" : 9,
+      "x": 800,
+      "y": 350,
+      "type" : "cross",
+      "nodes" : "4,10,11",
+      "traffic_light" : 0
+    },
+    {
+      "id" : 10,
+      "x" : 500,
+      "y" : 400,
+      "type" : "roundabout",
+      "nodes" : "6,8,9,13,15",
+      "traffic_light" : 0
+    },
+    {
+      "id" : 11,
+      "x" : 1000,
+      "y" : 500,
+      "type" : "cross",
+      "nodes" : "4,9,13,17",
+      "traffic_light" : 1
+    },
+    {
+      "id" : 12,
+      "x" : 0,
+      "y" : 600,
+      "type" : "cross",
+      "nodes" : "8,14,16",
+      "traffic_light" : 0
+    },
+    {
+      "id" : 13,
+      "x" : 700,
+      "y" : 700,
+      "type" : "roundabout",
+      "nodes" : "10,11,15,17",
+      "traffic_light" : 0
+    },
+    {
+      "id" : 14,
+      "x" : 200,
+      "y" : 800,
+      "type" : "cross",
+      "nodes" : "12,15,16",
+      "traffic_light" : 0
+    },
+    {
+      "id" : 15,
+      "x": 500,
+      "y": 900,
+      "type" : "cross",
+      "nodes" : "10,13,14",
+      "traffic_light" : 1
+    },
+    {
+      "id" : 16,
+      "x" : 0,
+      "y" : 1000,
+      "type" : "cross",
+      "nodes" : "12,14,17",
+      "traffic_light" : 0
+    },
+    {
+      "id" : 17,
+      "x": 1000,
+      "y": 1000,
+      "type" : "cross",
+      "nodes" : "11,13,16",
+      "traffic_light" : 0
+    }
+  ]
+  }
+  ]
+}

@@ -1,0 +1,11 @@
+Creer l'interface graphique de la simulation (Qt Designer)
+Implémenter les actions de chaque bouton de l'interface
+Avoir un algorithme ajoutant en fonction du nombre de ville le bon nombre d'onglet
+Implémenter un moteur graphique pour génerer l'environnement et les voitures
+Implémenter un générateur de carte par rapport à une base donnée
+Implémenter les objets de l'environnement (routes croisements feux) grace à une base de donnée (state machine cars and traffic lights)
+Créer un algorithme gérérant la forme de la ville en fonction de ses noeuds de connexion
+Implémenter un objet Ville et son Manager associé
+Implémenter les voitures grâce à une base de donnée et une génération aléatoire d'identifiant
+Implémenter le comportement de l'objet Voiture
+Implémenter un système de lecture de données
